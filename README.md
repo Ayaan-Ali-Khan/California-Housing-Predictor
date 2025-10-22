@@ -30,3 +30,4 @@ Key Stages Implemented:
 This project has the complete ML workflow beyond just model training - data exploration, feature engineering, model selection, evaluation strategies, and building production-ready pipelines.
 
 Technologies: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+Reference: Chapter 2 - "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron
